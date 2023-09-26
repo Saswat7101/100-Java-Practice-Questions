@@ -12,3 +12,13 @@ This repository contains 100 questions to get acquainted with Java syntax.
 8. Write a program to reverse a given string.
 9. Write a program to find the maximum element in an array of integers.
 10. Write a program to calculate the sum of elements in an array.
+11. Write a program to rotate the elements of an array to the left by a given number of positions.
+12. Write a program to remove duplicate elements from an array.
+13. Write a program to perform binary search on a sorted array.
+14. Write a program to implement the bubble sort algorithm for sorting an array.
+15. Write a program to implement the selection sort algorithm for sorting an array.
+16. Write a program to implement the insertion sort algorithm for sorting an array.
+17. Write a program to multiply two matrices.
+18. Write a program to perform a linear search for an element in an array.
+19. Write a program to reverse the elements of an array.
+20. Write a program to find the common elements between two arrays.
