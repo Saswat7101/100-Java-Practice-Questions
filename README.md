@@ -22,3 +22,13 @@ This repository contains 100 questions to get acquainted with Java syntax.
 18. Write a program to perform a linear search for an element in an array.
 19. Write a program to reverse the elements of an array.
 20. Write a program to find the common elements between two arrays.
+21. Write a program to check if two strings are anagrams of each other.
+22. Write a program to count the number of vowels and consonants in a given string.
+23. Write a program to find the GCD of two numbers.
+24. Write a program to check if a given year is a leap year.
+25. Write a program to check if a given number is an Armstrong number.
+26. Write a program to check if a given number is a palindromic number.
+27. Write a program to check if a given number is a perfect number.
+28. Write a program to find the LCM of two numbers.
+29. Write a program to calculate the result of raising a number to a power.
+30. Write a program to calculate the area of various shapes (circle, rectangle, triangle).
