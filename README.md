@@ -32,3 +32,13 @@ This repository contains 100 questions to get acquainted with Java syntax.
 28. Write a program to find the LCM of two numbers.
 29. Write a program to calculate the result of raising a number to a power.
 30. Write a program to calculate the area of various shapes (circle, rectangle, triangle).
+31. Write a program to check if a given number is a strong number.
+32. Write a program to generate the Fibonacci series using recursion.
+33. Write a program to check if a given number is a happy number.
+34. Write a program to find the Nth Fibonacci number without using recursion.
+35. Write a program to check if a given number is a pronic number.
+36. Write a program to check if a given number is a Disarium number.
+37. Write a program to find the prime factors of a given number.
+38. Write a program to check if a given number is a duck number.
+39. Write a program to check if a given number is a neon number.
+40. Write a program to check if a given number is a spy number.
