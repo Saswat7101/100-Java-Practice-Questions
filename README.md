@@ -42,3 +42,13 @@ This repository contains 100 questions to get acquainted with Java syntax.
 38. Write a program to check if a given number is a duck number.
 39. Write a program to check if a given number is a neon number.
 40. Write a program to check if a given number is a spy number.
+41. Write a program to count and calculate the sum of digits in a given number.
+42. Write a program to check if a given number is a Harshad number.
+43. Write a program to check if two arrays are disjoint sets.
+44. Write a program to calculate the factorial of a number using iteration.
+45. Write a program to find and display duplicate characters in a string.
+46. Write a program to check if a given string is a pangram.
+47. Write a program to check if a given string is a palindromic string.
+48. Write a program to check if a given string is a prime string.
+49. Write a program to calculate the simple interest.
+50. Write a program to check if a given number is an abundant number.
